@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+    font-family: Tahoma;
+    text-align: left;
+    }
+    #heading {
+    font-size:18px;
+    background-color: black;
+    }
+    tr{
+        font-size:16px;
+        background-color:grey;
+    }
+    tr:nth-child(even) {background-color:darkgray;
+    }
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
